@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906349775705",
+    "project_id": "tikfest-a2137",
+    "storage_bucket": "tikfest-a2137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906349775705:android:d29a9af30c973e823f9a48",
+        "android_client_info": {
+          "package_name": "com.example.tikfest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906349775705-hoq64lrvots6b1t7j3i46opnoud6o0nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu-cYd-DZPz9Pxj2px1jeU0N_QkVQWZJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906349775705-hoq64lrvots6b1t7j3i46opnoud6o0nn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
